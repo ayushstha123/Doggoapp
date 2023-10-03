@@ -11,7 +11,7 @@ const Home = () => {
           </div>
           <h1 class="mb-8 animate-fade-right animate-ease-out text-4xl font-extrabold leading-tight lg:text-6xl text-dark-grey-900">Feeling better with your little friend</h1>
           <p class="animate-fade-right animate-ease-out mb-6 text-base font-normal leading-7 lg:w-3/4 text-grey-900">
-            Say goodbye to endless hours spent on building templates from scratch. Experience the quickest, most responsive, and trendiest dashboard solution available. Seriously.
+          Welcome to Doggo, where love, compassion, and wagging tails come together to make a difference in the lives of dogs in need. We are a dedicated team of 3.
           </p>
           <div class="mb-5 flex flex-col items-center gap-4 lg:flex-row">
             <button class="flex items-center py-4 text-sm font-bold text-white px-7 bg-purple-500 hover:bg-purple-blue-600 focus:ring-4 focus:ring-purple-blue-100 transition duration-300 rounded-xl">Get started now</button>
